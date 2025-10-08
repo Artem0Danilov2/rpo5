@@ -1,0 +1,5 @@
+# 3. Все числа, кратные 7
+# print("\n\n3. Все числа, кратные 7:")
+# for num in range(start, end + 1):
+#     if num % 7 == 0:
+#         print(num, end=" ")
